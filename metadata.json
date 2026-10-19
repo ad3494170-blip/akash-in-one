@@ -1,0 +1,6 @@
+{
+  "name": "AKAZA LIKES STORE + GLORY BOT",
+  "description": "Premium Free Fire Likes Store and Glory Bot platform with instant automated delivery, wallet ledger, and FamGateway payment verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
